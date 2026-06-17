@@ -71,22 +71,12 @@ Das Projekt wird im Rahmen von **Smart Green City Konstanz** umgesetzt. Es verbi
 
 Das Projekt wird durch Bundesmittel gefördert und gemeinschaftlich umgesetzt.
 
-<table align="center">
-  <tr>
-    <td align="center" bgcolor="#ffffff" width="260" height="120">
-      <img src="https://smart-green-city-konstanz.de/themes/custom/konstanz/assets/Foerderlogo_BMWSB.png" alt="Förderlogo BMWSB" width="220" />
-    </td>
-    <td align="center" bgcolor="#ffffff" width="260" height="120">
-      <img src="https://smart-green-city-konstanz.de/themes/custom/konstanz/assets/KfW_Bankengruppe_20xx_logo.svg.png" alt="KfW Bankengruppe" width="220" />
-    </td>
-    <td align="center" bgcolor="#ffffff" width="260" height="120">
-      <img src="https://smart-green-city-konstanz.de/themes/custom/konstanz/assets/logo-konstanz.jpg" alt="Stadt Konstanz" width="220" />
-    </td>
-    <td align="center" bgcolor="#ffffff" width="260" height="120">
-      <img src="https://www.htwg-konstanz.de/fileadmin/pub/allgemein/Grafiken/logo/logo_ei_pos.svg" alt="Hochschule Konstanz EI" width="220" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://smart-green-city-konstanz.de/themes/custom/konstanz/assets/Foerderlogo_BMWSB.png" alt="Förderlogo BMWSB" width="220" />
+  <img src="https://images.weserv.nl/?url=smart-green-city-konstanz.de/themes/custom/konstanz/assets/KfW_Bankengruppe_20xx_logo.svg.png&w=220&h=120&fit=contain&bg=FFFFFF&output=png" alt="KfW Bankengruppe" width="220" />
+  <img src="https://smart-green-city-konstanz.de/themes/custom/konstanz/assets/logo-konstanz.jpg" alt="Stadt Konstanz" width="220" />
+  <img src="https://images.weserv.nl/?url=www.htwg-konstanz.de/fileadmin/pub/allgemein/Grafiken/logo/logo_ei_pos.svg&w=220&h=120&fit=contain&bg=FFFFFF&output=png" alt="Hochschule Konstanz EI" width="220" />
+</p>
 
 ***
 
